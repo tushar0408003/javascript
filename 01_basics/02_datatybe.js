@@ -1,2 +1,2 @@
-console.log(typeof"tushar")
+console.log(typeof"tusharjakhar")
 console.log(typeof null)
